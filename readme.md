@@ -24,3 +24,10 @@ SCAFFOLDING
         2.3.1 - stampare "Buzz"
     2.4 - : stampare numero
 
+SCAFFOLDIN BONUS
+
+1 - aggiungere in html ul
+2 - dare a ul id="numeri"
+3 - nel ciclo creare variante li
+4 - assegnare alla variante li valore i
+5 - aggiungere li in html
