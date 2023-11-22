@@ -29,5 +29,12 @@ SCAFFOLDIN BONUS
 1 - aggiungere in html ul
 2 - dare a ul id="numeri"
 3 - nel ciclo creare variante li
-4 - assegnare alla variante li valore i
-5 - aggiungere li in html
+4 - assegnare alla variante li valori 
+5 - ? il numero è divisibile per 15
+    5.1 - li = FizzBuzz
+6 - : ? il numero è divisibile per 3
+    6.1 - li = Fizz
+7 - : ? il numero è divisibile per 5
+    7.1 - li = Buzz
+8 - : li = i
+8 - aggiungere li in html
